@@ -1,6 +1,7 @@
 Objective
 
 Implement and practice the use of HTML elements and attributes.
+
     1. Create and index.thml file, insert the basic elements needed to start and html file, this will include a doctype, html element, head element, and body element.
         · Hint: There is a keyboard shortcut in VS Code to complete this! Try researching emmet abbreviations.
 
